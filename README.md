@@ -1,4 +1,4 @@
-# CATopalian JS Science
+# CATopalian JS Weather Center
 A JavaScript HTML, CSS, application where we fetch and show real time weather and environmental data from the internet!
 
 > Note: We will be updating the date and time setting soon to match the zipcode entered.

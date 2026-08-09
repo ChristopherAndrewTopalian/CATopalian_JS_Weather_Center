@@ -4,9 +4,9 @@ function makeTitleOfApp()
 {
     let theTitle = ce('a');
     theTitle.id = 'theTitle';
-    theTitle.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_Weather_Center';
+    theTitle.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JS_Weather_Center';
     theTitle.target = '_blank';
-    theTitle.textContent = 'CATopalian NWJS Weather Center';
+    theTitle.textContent = 'CATopalian JS Weather Center';
     theTitle.style.margin = 2 + 'px';
     theTitle.style.fontFamily = 'Arial';
     theTitle.style.fontSize = '17px';
